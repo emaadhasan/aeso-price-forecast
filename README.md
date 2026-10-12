@@ -95,4 +95,4 @@ R (httr2, dplyr, lubridate, readr, DBI, duckdb, xgboost), SQL (DuckDB), Power BI
 
 ## Author
 
-Emaad Hasan
+Syed Emaad Hasan
